@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
+| [1901-find-a-peak-element-ii](https://github.com/lakshmitarun/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
+## Binary Search
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/lakshmitarun/DSA/tree/master/1901-find-a-peak-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [1901-find-a-peak-element-ii](https://github.com/lakshmitarun/DSA/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
