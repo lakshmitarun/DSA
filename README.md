@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/lakshmitarun/DSA/tree/master/0016-3sum-closest) |
+| [1672-richest-customer-wealth](https://github.com/lakshmitarun/DSA/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
 | [1901-find-a-peak-element-ii](https://github.com/lakshmitarun/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/lakshmitarun/DSA/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/lakshmitarun/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
