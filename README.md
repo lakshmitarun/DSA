@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshmitarun/DSA/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/lakshmitarun/DSA/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/lakshmitarun/DSA/tree/master/0496-next-greater-element-i) |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lakshmitarun/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/lakshmitarun/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/lakshmitarun/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/lakshmitarun/DSA/tree/master/0020-valid-parentheses) |
 ## Bracket Sequences
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lakshmitarun/DSA/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/lakshmitarun/DSA/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
