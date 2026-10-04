@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lakshmitarun/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lakshmitarun/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/lakshmitarun/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/lakshmitarun/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/lakshmitarun/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/lakshmitarun/DSA/tree/master/0496-next-greater-element-i) |
 ## Design
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/lakshmitarun/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/lakshmitarun/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/lakshmitarun/DSA/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/lakshmitarun/DSA/tree/master/0227-basic-calculator-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/lakshmitarun/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/lakshmitarun/DSA/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lakshmitarun/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/lakshmitarun/DSA/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
