@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lakshmitarun/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/lakshmitarun/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/lakshmitarun/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/lakshmitarun/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lakshmitarun/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshmitarun/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lakshmitarun/DSA/tree/master/0735-asteroid-collision) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lakshmitarun/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/lakshmitarun/DSA/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/lakshmitarun/DSA/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/lakshmitarun/DSA/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshmitarun/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lakshmitarun/DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/lakshmitarun/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lakshmitarun/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lakshmitarun/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshmitarun/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshmitarun/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/lakshmitarun/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
