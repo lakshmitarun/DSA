@@ -122,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lakshmitarun/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lakshmitarun/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/lakshmitarun/DSA/tree/master/0227-basic-calculator-ii) |
+| [0509-fibonacci-number](https://github.com/lakshmitarun/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lakshmitarun/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/lakshmitarun/DSA/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/lakshmitarun/DSA/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshmitarun/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Manacher
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lakshmitarun/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/lakshmitarun/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lakshmitarun/DSA/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lakshmitarun/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
