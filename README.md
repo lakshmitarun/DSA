@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lakshmitarun/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/lakshmitarun/DSA/tree/master/0016-3sum-closest) |
+| [1768-merge-strings-alternately](https://github.com/lakshmitarun/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lakshmitarun/DSA/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/lakshmitarun/DSA/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/lakshmitarun/DSA/tree/master/0402-remove-k-digits) |
+| [1768-merge-strings-alternately](https://github.com/lakshmitarun/DSA/tree/master/1768-merge-strings-alternately) |
 ## Bracket Sequences
 |  |
 | ------- |
