@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lakshmitarun/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshmitarun/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/lakshmitarun/DSA/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lakshmitarun/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/lakshmitarun/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/lakshmitarun/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/lakshmitarun/DSA/tree/master/0066-plus-one) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lakshmitarun/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshmitarun/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/lakshmitarun/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
