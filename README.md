@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/lakshmitarun/DSA/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/lakshmitarun/DSA/tree/master/0146-lru-cache) |
+| [0389-find-the-difference](https://github.com/lakshmitarun/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/lakshmitarun/DSA/tree/master/0496-next-greater-element-i) |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
 ## Sliding Window
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/lakshmitarun/DSA/tree/master/0016-3sum-closest) |
+| [0389-find-the-difference](https://github.com/lakshmitarun/DSA/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lakshmitarun/DSA/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/lakshmitarun/DSA/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lakshmitarun/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/lakshmitarun/DSA/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/lakshmitarun/DSA/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/lakshmitarun/DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/lakshmitarun/DSA/tree/master/1768-merge-strings-alternately) |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lakshmitarun/DSA/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/lakshmitarun/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
