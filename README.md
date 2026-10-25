@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lakshmitarun/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/lakshmitarun/DSA/tree/master/0016-3sum-closest) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lakshmitarun/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/lakshmitarun/DSA/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/lakshmitarun/DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/lakshmitarun/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/lakshmitarun/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/lakshmitarun/DSA/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/lakshmitarun/DSA/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/lakshmitarun/DSA/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/lakshmitarun/DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/lakshmitarun/DSA/tree/master/1768-merge-strings-alternately) |
 ## Bracket Sequences
