@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/lakshmitarun/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshmitarun/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0986-interval-list-intersections](https://github.com/lakshmitarun/DSA/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1672-richest-customer-wealth](https://github.com/lakshmitarun/DSA/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/lakshmitarun/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/lakshmitarun/DSA/tree/master/0917-reverse-only-letters) |
+| [0986-interval-list-intersections](https://github.com/lakshmitarun/DSA/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/lakshmitarun/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/lakshmitarun/DSA/tree/master/0389-find-the-difference) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/lakshmitarun/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
