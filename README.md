@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/lakshmitarun/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshmitarun/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0986-interval-list-intersections](https://github.com/lakshmitarun/DSA/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1672-richest-customer-wealth](https://github.com/lakshmitarun/DSA/tree/master/1672-richest-customer-wealth) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/lakshmitarun/DSA/tree/master/0146-lru-cache) |
 | [0389-find-the-difference](https://github.com/lakshmitarun/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/lakshmitarun/DSA/tree/master/0496-next-greater-element-i) |
+| [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
 ## Sliding Window
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/lakshmitarun/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/lakshmitarun/DSA/tree/master/0917-reverse-only-letters) |
+| [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0986-interval-list-intersections](https://github.com/lakshmitarun/DSA/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/lakshmitarun/DSA/tree/master/1768-merge-strings-alternately) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/lakshmitarun/DSA/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/lakshmitarun/DSA/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
+| [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
 |  |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/lakshmitarun/DSA/tree/master/0986-interval-list-intersections) |
+## Counting
+|  |
+| ------- |
+| [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
 <!---LeetCode Topics End-->
