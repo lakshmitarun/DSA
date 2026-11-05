@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/lakshmitarun/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/lakshmitarun/DSA/tree/master/0735-asteroid-collision) |
+| [0825-friends-of-appropriate-ages](https://github.com/lakshmitarun/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshmitarun/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/lakshmitarun/DSA/tree/master/0948-bag-of-tokens) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/lakshmitarun/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/lakshmitarun/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/lakshmitarun/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/lakshmitarun/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/lakshmitarun/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/lakshmitarun/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0844-backspace-string-compare](https://github.com/lakshmitarun/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/lakshmitarun/DSA/tree/master/0917-reverse-only-letters) |
 | [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/lakshmitarun/DSA/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/lakshmitarun/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/lakshmitarun/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/lakshmitarun/DSA/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
