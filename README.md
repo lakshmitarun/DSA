@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/lakshmitarun/DSA/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/lakshmitarun/DSA/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshmitarun/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/lakshmitarun/DSA/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshmitarun/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lakshmitarun/DSA/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/lakshmitarun/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshmitarun/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lakshmitarun/DSA/tree/master/0239-sliding-window-maximum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshmitarun/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/lakshmitarun/DSA/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lakshmitarun/DSA/tree/master/0611-valid-triangle-number) |
 | [0825-friends-of-appropriate-ages](https://github.com/lakshmitarun/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshmitarun/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lakshmitarun/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/lakshmitarun/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/lakshmitarun/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
