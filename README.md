@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/lakshmitarun/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/lakshmitarun/DSA/tree/master/0917-reverse-only-letters) |
 | [0923-3sum-with-multiplicity](https://github.com/lakshmitarun/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [0925-long-pressed-name](https://github.com/lakshmitarun/DSA/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/lakshmitarun/DSA/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/lakshmitarun/DSA/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lakshmitarun/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/lakshmitarun/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/lakshmitarun/DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/lakshmitarun/DSA/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/lakshmitarun/DSA/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/lakshmitarun/DSA/tree/master/1768-merge-strings-alternately) |
 ## Bracket Sequences
 |  |
